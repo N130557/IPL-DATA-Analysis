@@ -6,7 +6,7 @@ here i found out the insights from IPL Data-set using Pandas,Numpy,Matplotlib
 
 <br>Here i have found out that Number of insights from the data to understand easily and i have visualized that data.</br>
 
-<br>TOOLS NEEDE : </br>
+<br>TOOLS USED: </br>
 <br>Anaconda latest version with Jupyter Notebook</br>
 <br>Numpy</br>
 <br>Pandas</br>
