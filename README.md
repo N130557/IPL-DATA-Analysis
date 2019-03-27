@@ -8,7 +8,7 @@ here i found out the insights from IPL Data-set using Pandas,Numpy,Matplotlib
 
 <br>TOOLS NEEDE : </br>
 <br>Anaconda latest version with Jupyter Notebook</br>
-<br>Numpy<.br>
+<br>Numpy</br>
 <br>Pandas</br>
 <br>Matplotlib</br>
 <br>Seabron</br>
