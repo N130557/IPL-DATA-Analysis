@@ -17,15 +17,15 @@ here i found out the insights from IPL Data-set using Pandas,Numpy,Matplotlib
 <br> <b>Insights what i have got from This Data-Set are ....</b></br>
 
 
-<br>How many matches we’ve got in the dataset?</br>
-<br>How many seasons we’ve got in the dataset?</br>
-<br>Which Team had won by maximum runs?</br>
-<br>Which Team had won by maximum wicket?</br>
-<br>Which Team had won by closest Margin (minimum runs)?</br>
-<br>Which Team had won by minimum wickets?</br>
-<br>Which Season had most number of matches?</br>
-<br>Which IPL Team is more successful?</br>
-<br>Has Toss-winning helped in winning matches?</br>
+<br>1.How many matches we’ve got in the dataset?</br>
+<br>2.How many seasons we’ve got in the dataset?</br>
+<br>3.Which Team had won by maximum runs?</br>
+<br>4.Which Team had won by maximum wicket?</br>
+<br>5.Which Team had won by closest Margin (minimum runs)?</br>
+<br>6.Which Team had won by minimum wickets?</br>
+<br>7.Which Season had most number of matches?</br>
+<br>8.Which IPL Team is more successful?</br>
+<br>9.Has Toss-winning helped in winning matches?</br>
 
 
 
